@@ -1,0 +1,834 @@
+{
+    "TST-MUC3-0001": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "fmln"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "explosives"
+        ]
+    },
+    "TST-MUC3-0002": {
+        "perp_individual_id": [
+            "unidentified individuals"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0003": {
+        "perp_individual_id": [
+            "unidentified individuals",
+            "urban commandos"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "explosive devices"
+        ]
+    },
+    "TST-MUC3-0004": {
+        "perp_individual_id": [
+            "unidentified individuals",
+            "urban commandos"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "explosive devices"
+        ]
+    },
+    "TST-MUC3-0005": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "TST-MUC3-0006": {
+        "perp_individual_id": [
+            "unidentified",
+            "terrorists",
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "dynamite",
+            "dynamite"
+        ]
+    },
+    "TST-MUC3-0007": {
+        "perp_individual_id": [
+            "unidentified",
+            "terrorists",
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "dynamite",
+            "dynamite"
+        ]
+    },
+    "TST-MUC3-0008": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [
+            "bank branches",
+            "bank building",
+            "stores",
+            "bank branches"
+        ],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "dynamite",
+            "bomb",
+            "device",
+            "dynamite"
+        ]
+    },
+    "TST-MUC3-0009": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [
+            "bank branches",
+            "bank building",
+            "stores",
+            "bank branches"
+        ],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "dynamite",
+            "bomb",
+            "device",
+            "dynamite"
+        ]
+    },
+    "TST-MUC3-0010": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [
+            "bank offices",
+            "banco de occidente branch",
+            "banco popular branch",
+            "shops",
+            "banco popular",
+            "bank office"
+        ],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bombs",
+            "bomb",
+            "bomb",
+            "explosive devices",
+            "bombs",
+            "bombs"
+        ]
+    },
+    "TST-MUC3-0011": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [
+            "bank offices",
+            "banco de occidente branch",
+            "banco popular branch",
+            "shops",
+            "banco popular",
+            "bank office"
+        ],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bombs",
+            "bomb",
+            "bomb",
+            "explosive devices",
+            "bombs",
+            "bombs"
+        ]
+    },
+    "TST-MUC3-0012": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "dynamite",
+            "dynamite"
+        ]
+    },
+    "TST-MUC3-0013": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0014": {
+        "perp_individual_id": [
+            "gunmen",
+            "unidentified individuals"
+        ],
+        "perp_organization_id": [
+            "extraditables",
+            "extraditables"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "martha luz lopez",
+            "martha luz lopez",
+            "martha lopez orozco de lopez"
+        ],
+        "incident_instrument_id": []
+    },
+    "TST-MUC3-0015": {
+        "perp_individual_id": [
+            "guerrillas",
+            "rebels",
+            "rebels",
+            "urban commandos",
+            "rebel units",
+            "rebels",
+            "guerrillas",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0016": {
+        "perp_individual_id": [
+            "guerrillas",
+            "rebels",
+            "guerrillas",
+            "guerrillas",
+            "guerrillas",
+            "guerrillas",
+            "guerrillas",
+            "guerrilla fighters",
+            "rebels"
+        ],
+        "perp_organization_id": [
+            "government of el salvador",
+            "fmln",
+            "farabundo marti national liberation front",
+            "fmln",
+            "fmln",
+            "government"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "dynamite"
+        ]
+    },
+    "TST-MUC3-0017": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "fmln",
+            "farabundo marti national liberation front"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "TST-MUC3-0018": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0019": {
+        "perp_individual_id": [
+            "terrorist criminals"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "TST-MUC3-0020": {
+        "perp_individual_id": [
+            "rebels",
+            "guerrillas",
+            "rebels",
+            "guerrillas",
+            "guerrillas",
+            "rebels",
+            "insurgents",
+            "guerrillas",
+            "guerrillas",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "maria luz lopez"
+        ],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb",
+            "dynamite"
+        ]
+    },
+    "TST-MUC3-0021": {
+        "perp_individual_id": [
+            "rebels",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "farabundo marti national liberation front",
+            "fmln",
+            "fmln"
+        ],
+        "phys_tgt_id": [
+            "store",
+            "electrical appliance store"
+        ],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0022": {
+        "perp_individual_id": [
+            "terrorist groups",
+            "terrorists",
+            "terrorists",
+            "terrorists",
+            "terrorists squads"
+        ],
+        "perp_organization_id": [
+            "farabundo marti national liberation front - revolutionary democratic front",
+            "fmln",
+            "fmln"
+        ],
+        "phys_tgt_id": [
+            "automobile spare parts distribution company"
+        ],
+        "hum_tgt_name": [
+            "manuel alvaro mendoza",
+            "jose manuel posada"
+        ],
+        "incident_instrument_id": [
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0023": {
+        "perp_individual_id": [
+            "terrorist groups",
+            "terrorists",
+            "terrorists",
+            "terrorists",
+            "terrorists squads"
+        ],
+        "perp_organization_id": [
+            "farabundo marti national liberation front - revolutionary democratic front",
+            "fmln",
+            "fmln"
+        ],
+        "phys_tgt_id": [
+            "automobile spare parts distribution company"
+        ],
+        "hum_tgt_name": [
+            "manuel alvaro mendoza",
+            "jose manuel posada"
+        ],
+        "incident_instrument_id": [
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0024": {
+        "perp_individual_id": [
+            "unidentified individuals"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [
+            "chapel of the church of jesus christ of latter - day saints"
+        ],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb",
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0025": {
+        "perp_individual_id": [
+            "insurgents",
+            "rebels"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "alexander molina granados"
+        ],
+        "incident_instrument_id": []
+    },
+    "TST-MUC3-0026": {
+        "perp_individual_id": [
+            "unidentified individuals"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0027": {
+        "perp_individual_id": [
+            "urban guerrillas",
+            "rebels",
+            "urban guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bombs",
+            "bombs",
+            "bombs",
+            "bombs"
+        ]
+    },
+    "TST-MUC3-0028": {
+        "perp_individual_id": [
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [
+            "economy and finance ministry building"
+        ],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb",
+            "bomb",
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0029": {
+        "perp_individual_id": [
+            "unidentified individuals",
+            "guerrillas",
+            "suspected subversives"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0030": {
+        "perp_individual_id": [
+            "terrorists",
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "dynamite"
+        ]
+    },
+    "TST-MUC3-0031": {
+        "perp_individual_id": [
+            "terrorists",
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bombs",
+            "bombs",
+            "bombs",
+            "bombs",
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0032": {
+        "perp_individual_id": [
+            "terrorists",
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bombs",
+            "bombs",
+            "bombs",
+            "bombs",
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0033": {
+        "perp_individual_id": [
+            "terrorists",
+            "terrorists",
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bombs",
+            "bombs",
+            "bombs",
+            "bombs",
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0034": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "eln"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "dynamite"
+        ]
+    },
+    "TST-MUC3-0035": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [
+            "headquarters of the shoe industry workers union"
+        ],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb",
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0036": {
+        "perp_individual_id": [
+            "unidentified individuals",
+            "unidentified individuals"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb",
+            "bomb",
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0037": {
+        "perp_individual_id": [
+            "urban guerrillas",
+            "rebels",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bombs"
+        ]
+    },
+    "TST-MUC3-0038": {
+        "perp_individual_id": [
+            "urban guerrillas",
+            "rebels",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bombs"
+        ]
+    },
+    "TST-MUC3-0039": {
+        "perp_individual_id": [
+            "urban guerrillas",
+            "rebels",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bombs"
+        ]
+    },
+    "TST-MUC3-0040": {
+        "perp_individual_id": [
+            "guerrillas",
+            "guerrillas",
+            "guerrillas",
+            "rebels",
+            "guerrillas",
+            "rebels",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "farc",
+            "government"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "dynamite"
+        ]
+    },
+    "TST-MUC3-0041": {
+        "perp_individual_id": [
+            "guerrillas",
+            "guerrillas",
+            "guerrillas",
+            "rebels",
+            "guerrillas",
+            "rebels",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "farc",
+            "government"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "dynamite"
+        ]
+    },
+    "TST-MUC3-0042": {
+        "perp_individual_id": [],
+        "perp_organization_id": [
+            "fmln",
+            "fmln",
+            "fmln",
+            "fmln"
+        ],
+        "phys_tgt_id": [
+            "shopping mall",
+            "shopping mall"
+        ],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bombs"
+        ]
+    },
+    "TST-MUC3-0043": {
+        "perp_individual_id": [
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "popular liberation army"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "TST-MUC3-0044": {
+        "perp_individual_id": [
+            "guerrillas",
+            "insurgents"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0045": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0046": {
+        "perp_individual_id": [
+            "terrorists",
+            "unidentified people"
+        ],
+        "perp_organization_id": [
+            "shining path",
+            "shining path"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb",
+            "bomb",
+            "bomb",
+            "explosives"
+        ]
+    },
+    "TST-MUC3-0047": {
+        "perp_individual_id": [
+            "terrorists"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "TST-MUC3-0048": {
+        "perp_individual_id": [
+            "rebels"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "TST-MUC3-0049": {
+        "perp_individual_id": [
+            "guerrillas"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "TST-MUC3-0050": {
+        "perp_individual_id": [
+            "rebels",
+            "guerrillas",
+            "guerrillas"
+        ],
+        "perp_organization_id": [
+            "fmln",
+            "fmln"
+        ],
+        "phys_tgt_id": [
+            "national administration for telecommunications offices"
+        ],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "homemade bombs"
+        ]
+    },
+    "TST-MUC3-0051": {
+        "perp_individual_id": [
+            "guerrillas",
+            "guerrillas",
+            "insurgents"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "TST-MUC3-0052": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [
+            "mauricio vera barrios"
+        ],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb",
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0053": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb"
+        ]
+    },
+    "TST-MUC3-0054": {
+        "perp_individual_id": [
+            "suspected guerrilla",
+            "rebels",
+            "guerrillas",
+            "rebels"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "explosives"
+        ]
+    },
+    "TST-MUC3-0055": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bombs"
+        ]
+    }
+}

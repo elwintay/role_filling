@@ -1,0 +1,1491 @@
+{
+    "TST-MUC3-0001": {
+        "doc": "the government of el salvador strongly condemns the terrorist attacks carried out with explosives today against the committee of mothers of political prisoners and missing in el salvador and against the salvadoran workers national union federation.  as a result of these attacks, several persons were wounded and others died.  the government offers its condolences.    the government repudiates these irrational and criminal actions and the terrorist attack carried out on 30 october by the fmln against the armed forces staff installations, where 1 civilian died and 14 others were wounded.  it is evident that these actions are part of a plot whose objective is to block the dialogue initiated by president alfredo cristiani.    the government has ordered a careful investigation to determine what happened and to file charges against criminal groups that have unleashed this increased wave of terrorist violence to create a climate of unrest and to block the road to peace.    finally, the government of el salvador reaffirms its determination to continue the search for peace through the dialogue, and it states that in spite of these bloody events, salvadorans must remain calm and not give up hopes to find a solution to the conflict through civilized means.    31 october 1989, national secretariat of communications.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "criminal groups"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "the committee of mothers of political prisoners and missing in el salvador"
+                ],
+                [
+                    "salvadoran workers national union federation"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "explosives"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0002": {
+        "doc": "today two people were wounded when a bomb exploded in san juan bautista municipality.  officials said that shining path members were responsible for the attack.    a woman was also murdered today in huamaguilla in another apparent terrorist attack.    police sources stated that the bomb attack involving the shining path caused serious damages.    press sources reported that today they received a shining path document that harshly criticizes the policies of the alan garcia administration. the document also announces that it will soon call for an \"armed strike\" in the ayacucho department.    a similar strike last november, imposed by the shining path by terror, lasted 1 week.    the same sources also said that reporter luis morales, who works for an ayacucho regional organization, reported that five unidentified individuals attempted to kidnap him.  he luckily escaped.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "shining path members"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "shining path"
+                ]
+            ],
+            "phys_tgt_id": [],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0003": {
+        "doc": "farabundo marti national liberation front (fmln) urban commandos have denied reports they participated in an attack on vice president-elect francisco merino's home.    at 0530 this morning, unidentified individuals placed three explosive devices at the main entrance of merino's home in the machiliguas neighborhood.  two of the devices exploded.      reports indicate that the perpetrators, who arrived in a vehicle, also fired at the guards protecting merino's residence.  early reports pointed to urban commandos as the presumed perpetrators, but a spokesman for the modesto ramirez central front, in a telephone call, denied the report.    (begin recording) (unidentified fmln spokesman) on this occasion, the fmln must explain that our forces did not participate in the attack in question. the fmln warns that the armed forces are taking advantage of the situation to create confusion and promote true state terrorism.    the fmln condemns the (word indistinct) against our people and warns that these actions will not be allowed to take place without the appropriate response.  the fmln claims responsibility for actions in which it is directly involved.  in this case, we were not directly involved.  the fmln warns that the armed forces are taking advantage of this situation to perpetrate attacks on individuals and institutions which can be easily attributed to the fmln. (end recording)    the fmln described statements made by president-elect alfredo cristiani as irresponsible.  the president-elect immediately condemned the attack and attributed it to the urban commandos.  as a result of the attack, a 15-year-old girl was wounded and considerable damage was reported.  merino is currently out of the country.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "urban commandos",
+                    "modesto ramirez central front"
+                ],
+                [
+                    "unidentified individuals"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "farabundo marti national liberation front",
+                    "fmln"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "vice president-elect francisco merino's home"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "three explosive devices",
+                    "explosive devices"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0004": {
+        "doc": "farabundo marti national liberation front (fmln) urban commandos have denied reports they participated in an attack on vice president-elect francisco merino's home.    at 0530 this morning, unidentified individuals placed three explosive devices at the main entrance of merino's home in the machiliguas neighborhood.  two of the devices exploded.      reports indicate that the perpetrators, who arrived in a vehicle, also fired at the guards protecting merino's residence.  early reports pointed to urban commandos as the presumed perpetrators, but a spokesman for the modesto ramirez central front, in a telephone call, denied the report.    (begin recording) (unidentified fmln spokesman) on this occasion, the fmln must explain that our forces did not participate in the attack in question. the fmln warns that the armed forces are taking advantage of the situation to create confusion and promote true state terrorism.    the fmln condemns the (word indistinct) against our people and warns that these actions will not be allowed to take place without the appropriate response.  the fmln claims responsibility for actions in which it is directly involved.  in this case, we were not directly involved.  the fmln warns that the armed forces are taking advantage of this situation to perpetrate attacks on individuals and institutions which can be easily attributed to the fmln. (end recording)    the fmln described statements made by president-elect alfredo cristiani as irresponsible.  the president-elect immediately condemned the attack and attributed it to the urban commandos.  as a result of the attack, a 15-year-old girl was wounded and considerable damage was reported.  merino is currently out of the country.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "unidentified individuals"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "armed forces"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "vice president-elect francisco merino's home"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "three explosive devices",
+                    "explosive devices"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0005": {
+        "doc": "oil will not be pumped through the cano limon-covenas pipeline again until 30 may, because it was again blown up today near urum municipality, norte de santander department.",
+        "roles": {
+            "perp_individual_id": [],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "cano limon-covenas pipeline",
+                    "pipeline"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": []
+        }
+    },
+    "TST-MUC3-0006": {
+        "doc": "for the second time, unidentified terrorists dynamited the oil pipeline between huila department and barrancabermeja.  meanwhile, ecopetrol (colombian petroleum enterprise) workers are repairing the cano limon-covenas pipeline and cleaning up the arauca river along the venezuelan border, where a huge oil spill was caused by another attack against the oil pipeline.    authorities confirmed that there was a powerful dynamite explosion at the vina-puerto salgar oil pipeline, located approximately 30 km from natagaima, in northern huila department, causing an undetermined amount of crude oil to spill.    this is the second time in less than 1 month that terrorists have attacked the oil pipeline operated by houston oil and ecopetrol.  a few weeks ago, terrorists destroyed the pipeline near aipe, which caused another oil spill.    meanwhile, operators from the state-run oil company yesterday began repairing the cano limon-covenas oil pipeline dynamited on the night of 12 july in arauquita jurisdiction, which forced the suspension of oil pumping from arauca intendancy's oil fields to the gulf of morrosquillo.    members of the contingency team supported by petroven (venezuelan petroleum, inc.) and the venezuelan environment and natural resources ministry are cleaning up a huge oil spill at the arauca river caused by the 7 july attack against the cano limon-covenas oil pipeline.  that attack resulted in a spill of 13,000 barrels of oil, which severely contaminated farming areas and the arauca river, to the point that the potable water service was temporarily suspended in arauca's capital city.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "unidentified terrorists",
+                    "terrorists"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "oil pipeline",
+                    "pipeline",
+                    "vina-puerto salgar oil pipeline"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "dynamite"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0007": {
+        "doc": "for the second time, unidentified terrorists dynamited the oil pipeline between huila department and barrancabermeja.  meanwhile, ecopetrol (colombian petroleum enterprise) workers are repairing the cano limon-covenas pipeline and cleaning up the arauca river along the venezuelan border, where a huge oil spill was caused by another attack against the oil pipeline.    authorities confirmed that there was a powerful dynamite explosion at the vina-puerto salgar oil pipeline, located approximately 30 km from natagaima, in northern huila department, causing an undetermined amount of crude oil to spill.    this is the second time in less than 1 month that terrorists have attacked the oil pipeline operated by houston oil and ecopetrol.  a few weeks ago, terrorists destroyed the pipeline near aipe, which caused another oil spill.    meanwhile, operators from the state-run oil company yesterday began repairing the cano limon-covenas oil pipeline dynamited on the night of 12 july in arauquita jurisdiction, which forced the suspension of oil pumping from arauca intendancy's oil fields to the gulf of morrosquillo.    members of the contingency team supported by petroven (venezuelan petroleum, inc.) and the venezuelan environment and natural resources ministry are cleaning up a huge oil spill at the arauca river caused by the 7 july attack against the cano limon-covenas oil pipeline.  that attack resulted in a spill of 13,000 barrels of oil, which severely contaminated farming areas and the arauca river, to the point that the potable water service was temporarily suspended in arauca's capital city.",
+        "roles": {
+            "perp_individual_id": [],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "oil pipeline",
+                    "pipeline",
+                    "cano limon-covenas oil pipeline"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": []
+        }
+    },
+    "TST-MUC3-0008": {
+        "doc": "two persons were injured in dynamite attacks perpetrated this evening against two bank branches in this northwestern colombian city.    the first police reports indicate that a bomb exploded in front of the state-owned agrarian board in the suburbs of manrique, and another at the agrarian board branch in the sector of aranjuez.    one person was seriously wounded in each of the terrorist attacks, but no deaths were reported.    the device which exploded in manrique destroyed the bank building and a bus that was parked in front of the building, and caused considerable damage in several stores nearby.    the explosion in the other branch was of a lesser magnitude, and it broke windows and caused damage inside the offices.    the scant police information said that the devices were apparently left in front of the two bank branches minutes before the curfew began for the 6th consecutive day--precisely to counter the wave of terrorism caused by drug traffickers.    these represent the second and third dynamite attacks in medellin this evening. the previous one took place 2 hours earlier and blew up a police post, but failed to injure its five occupants.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "drug traffickers"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "state-owned agrarian board",
+                    "agrarian board",
+                    "bank building"
+                ],
+                [
+                    "bus"
+                ],
+                [
+                    "stores"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "dynamite"
+                ],
+                [
+                    "bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0009": {
+        "doc": "two persons were injured in dynamite attacks perpetrated this evening against two bank branches in this northwestern colombian city.    the first police reports indicate that a bomb exploded in front of the state-owned agrarian board in the suburbs of manrique, and another at the agrarian board branch in the sector of aranjuez.    one person was seriously wounded in each of the terrorist attacks, but no deaths were reported.    the device which exploded in manrique destroyed the bank building and a bus that was parked in front of the building, and caused considerable damage in several stores nearby.    the explosion in the other branch was of a lesser magnitude, and it broke windows and caused damage inside the offices.    the scant police information said that the devices were apparently left in front of the two bank branches minutes before the curfew began for the 6th consecutive day--precisely to counter the wave of terrorism caused by drug traffickers.    these represent the second and third dynamite attacks in medellin this evening. the previous one took place 2 hours earlier and blew up a police post, but failed to injure its five occupants.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "drug traffickers"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "agrarian board",
+                    "agrarian board branch"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "dynamite"
+                ],
+                [
+                    "bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0010": {
+        "doc": "authorities have officially reported that several bank offices were adversely affected tonight in the chapinero neighborhood of northern bogota when two bombs exploded, causing minor injuries to a child and a security guard.    the first bomb exploded by the door of a banco de occidente branch at 2115 local time (0215 gmt), and the shock wave damaged other nearby banks.    following the explosion, a 9-year-old boy who lives near the banco de occidente was wounded by pieces of glass, said his relatives, who took him to the \"marly\" clinic near the area.    at the same time, another bomb exploded at a banco popular branch, two blocks away from where the first explosion took place, police said.    other banks and shops were damaged by the second explosion, and the security guard at the banco popular was also injured by pieces of flying glass, the authorities said.    according to preliminary reports, two men placed the explosive devices and left the scene on foot.    both of these attacks tonight, attributed to the drug trafficking cartels, took place after 10 bombs exploded early this morning in the teusaquillo area in downtown bogota.  the bombs were placed in nine political offices of the liberal and social conservative parties and in another bank office.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "two men",
+                    "men"
+                ],
+                [
+                    "drug trafficking cartels"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "banco de occidente branch",
+                    "banco de occidente"
+                ],
+                [
+                    "other nearby banks",
+                    "nearby banks",
+                    "banks"
+                ],
+                [
+                    "banks",
+                    "other banks"
+                ],
+                [
+                    "banco popular branch",
+                    "banco popular"
+                ],
+                [
+                    "shops"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "two bombs",
+                    "bombs",
+                    "bomb",
+                    "explosive devices"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0011": {
+        "doc": "authorities have officially reported that several bank offices were adversely affected tonight in the chapinero neighborhood of northern bogota when two bombs exploded, causing minor injuries to a child and a security guard.    the first bomb exploded by the door of a banco de occidente branch at 2115 local time (0215 gmt), and the shock wave damaged other nearby banks.    following the explosion, a 9-year-old boy who lives near the banco de occidente was wounded by pieces of glass, said his relatives, who took him to the \"marly\" clinic near the area.    at the same time, another bomb exploded at a banco popular branch, two blocks away from where the first explosion took place, police said.    other banks and shops were damaged by the second explosion, and the security guard at the banco popular was also injured by pieces of flying glass, the authorities said.    according to preliminary reports, two men placed the explosive devices and left the scene on foot.    both of these attacks tonight, attributed to the drug trafficking cartels, took place after 10 bombs exploded early this morning in the teusaquillo area in downtown bogota.  the bombs were placed in nine political offices of the liberal and social conservative parties and in another bank office.",
+        "roles": {
+            "perp_individual_id": [],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "bank office"
+                ],
+                [
+                    "political offices of the liberal and social conservative parties",
+                    "political offices"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "bombs",
+                    "10 bombs"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0012": {
+        "doc": "i have been in touch with general octavio vargas silva, national police operational commander and inspector.  gen vargas has said that the two people who were killed in the attack that took place at suba municipality last night have not yet been identified.    (vargas) two people were killed and five others were wounded as a result of the attack.  the two people who were killed are yet to be identified.  those wounded include three employees of the gas station where the car bomb went off and two people who were walking by the gas station at the moment of the explosion.  preliminary reports have estimated that the explosion caused 70 million pesos in losses.    (carrillo) general, approximately how many kilograms of explosives were in the car bomb?    (vargas) apparently it contained 60 kg of dynamite.  the dynamite was placed inside an old station wagon.  something must have happened to the people who were inside the vehicle at the time of the explosion -- the two people who were killed.  apparently the car bomb went off by accident.  it was not supposed to have gone off at that gas station.    (carrillo) have the people who were killed been identified?    (vargas) no, not yet.  we are trying to identify them now.    (carrillo) are there special security measures to counter this wave of terrorism?    (vargas) yes, of course.  we are carrying out a series of joint actions with the bogota police department and administrative department of security personnel to neutralize terrorist actions.  we are carrying out those actions in areas we consider critical or vulnerable and in other areas where we are counteracting and neutralizing terrorist actions, as i told you.    (carrillo) are there secret agents throughout the entire city?    (vargas) yes, we have uniformed and civilian personnel guarding the city right now.  we also have the support of the bogota police department, of dijin (directorate of judicial police and investigations), and of cijin (expansion unknown). they are cooperating with us.  they are guarding areas we consider critical or places that could be targets of terrorist attacks.    (carrillo) what other measures have you adopted along with the 13th infantry brigade and the bogota mayor?    (vargas) we have implemented a number of measures, such as increasing personnel on the streets and human and material resources. in addition, we have established chekckpoints in areas we consider critical and are carrying out a number of operational activities that will help us locate these criminals.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "two people",
+                    "two people who were killed",
+                    "people",
+                    "people who were killed"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "gas station"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "car bomb"
+                ],
+                [
+                    "60 kg of dynamite",
+                    "dynamite"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0013": {
+        "doc": "police have confirmed that a bomb exploded early this morning in front of the offices that former president raul alfonsin has in this city. the explosion broke the windows of neighboring buildings and a woman was wounded slightly in an arm.    the attack occurred at 0320 (0620 gmt) in front of the ricardo rojas cultural center, located at 132 ayacucho street, where the former president has offices for his political activities. the explosion wounded the arm of beatriz iero, damaged the doors and walls of the offices, and broke the windows of neighboring buildings.    personnel from the 5th police precinct are investigating.",
+        "roles": {
+            "perp_individual_id": [],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "offices that former president raul alfonsin has in this city",
+                    "ricardo rojas cultural center, located at 132 ayacucho street, where the former president has offices for his political activities",
+                    "ricardo rojas cultural center"
+                ],
+                [
+                    "neighboring buildings",
+                    "buildings"
+                ]
+            ],
+            "hum_tgt_name": [
+                [
+                    "beatriz iero"
+                ]
+            ],
+            "incident_instrument_id": [
+                [
+                    "bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0014": {
+        "doc": "\"the extraditables,\" the armed branch of the medellin cartel have claimed responsibility for the murder of two employees of bogota's daily el espectador perpetrated today in medellin, a source from that newspaper told efe.    miguel soler rodriguez, el espectator's circulation manager and martha luz lopez, the correspondent's office administrator, were killed today in separate attacks carried out by gunmen in medellin, colombia's second largest city and capital of the antioquia department.    shortly after the murders, an anonymous call was received at el espectador's office in medellin, threatening to kill all the editors and office personnel who do not resign in 3 days.    \"the extraditables,\" the voice said, \"do not want that newspaper circulating in antioquia anymore.\"    martha luz lopez, 35, who worked for el espectador 11 years, was killed by two men on motorcycles who intercepted her car at a corner and shot her several times. at the moment of the attack, she was accompanied by her mother martha lopez orozco de lopez, who was wounded.    soler, who was 45-years old and had worked for 25 years at el espectator, was also killed by unidentified individuals while he was on his way back to his residence.    soler, who was in charge of advertising and circulation of el espectador in medellin and the northwestern area of colombia, was married and the father of three children.    the main offices in bogota of el espectador, the newspaper most threatened by colombia's drug trafficking mafia, were partially destroyed on 2 september when a car bomb explosion injured over 90 people.    newspaper director guillermo cano was murdered as he was leaving his office on 17 december 1986. this crime was attributed to the medellin cartel, which together with the cali cartel, is considered to be among the most important organizations in the world involved in the trafficking and distribution of cocaine.    newspaper attorney and journalist hector giraldo galvez, who was the civil prosecutor in the investigation into guillermo cano's homicide, was also murdered in bogota on 29 march.    el espectador has characterized itself by rejecting and condemning drug trafficking and other criminal activities involving mafiosos.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "drug trafficking mafia"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "main offices in bogota of el espectador"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "car bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0015": {
+        "doc": "on 5 november, radio venceremos reports that guerrillas have carried out 2 ambushes along the panamerican highway, inflicting 26 army casualties.  the report indicated that at 0600 on 4 november, the rebels placed a bomb on a light tank near flores de tepeyac, apastepeque.  it is estimated that the action resulted in 9 casualties; the light tank was completely destroyed.  the second ambush occurred at 0815 on 4 november.  the rebels ambushed a 10-vehicle military convoy and left at least 17 casualties.  some time after the rebel action, the army directed mortar fire to the area and the air force leveled machinegun fire upon this populated zone. traffic on the panamerican highway was paralyzed while the armed forces evacuated the many casualties from the area in helicopters.    a later report told of urban commandos attacking a treasury police unit at 5th avenue and 5th poniente street in san salvador, resulting in 2 casualties to the treasury police.    also, rebel units were said to attack military detachment no 1 commandos on the outskirts of totonique, chalatenango department during the afternoon of 3 november, inflicting two casualties.    in another item, the central anastacio aquino front was reported to claim taking part in actions against the belloso battalion.  fmln rebels clashed with soldiers in canton coyolito in tecoluca jurisdiction, san vicente department at 0900 on 3 november, and inflicted three casualties.  that same day, the same unit was attacked in finca sajelio and the guerrillas claimed to have inflicted 2 more casualties.  the same troops were said to suffer 2 more casualties in a mined area on 4 november.    an fmln unit was also said to have seized the town of los hernandez in canton matasano, cabanas department on 4 november. four pylons were blown up, interrupting a 46,000-volt electrical line.    radio venceremos on 6 november carries its weekly military report:    \"during the past week, radio venceremos reported inflicting many casualties on the armed forces.  the total number of casualties inflicted on the armed forces was 124, including an arce battalion officer who was hit in (word indistinct).  fmln forces ambushed five military convoys along different highways throughout the country. during the week, two paramilitary members were captured.  the fmln respected the lives of these men and released them immediately, but confiscated their 3 rifles and 300 cartridges.  we highlight the attack by our urban commandos on command staff installations.  this attack took place in a san salvador that is totally militarized, nevertheless, we managed to hit the top death squads members' central nerve.  guerrilla actions in the metapan area increased during the week and our men ambushed soldiers along the santa ana-metapan road several times.  in chalatenango, our men carried out continuous actions against 4th infantry brigade troops in el refugio and other places in san ignacio.  we have already amply reported heavy clashes against paramilitary groups in san francisco canton, cabanas department, where we captured the aforementioned prisoners and confiscated their weapons.  we carried out important ambush operations against military troops trying to transit the panamerican and coastal highways in san vicente and la paz departments.  we also met the belloso battalion troops and caused their first casualties.\"    the station also reported that guerrillas attacked a section of the soriano battalion in finca las mercedes and inflicted three casualties on the 1st infantry brigade troops, including a radio operator.  an m-16 rifle was confiscated from the soldiers.    rebel unit was said to have ambushed a military convoy along the coastal road near san cristobal in the tecoluca jurisdiction, san vicente department at noon of 5 november.  our men confirm having inflicted 6 army casualties.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "unit",
+                    "fmln unit"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "fmln"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "pylons"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": []
+        }
+    },
+    "TST-MUC3-0016": {
+        "doc": "the salvadoran guerrillas assured today they have \"consolidated\" four of the most densely populated neighborhoods in northern san salvador where some 300,000 persons live.    commander amilcar, one of the rebel chiefs who has occupied the zacamil neighborhood, told acan - efe that he and his men came to san salvador \"prepared, and with sufficient ammunition to remain for several days.\"    in a general assesement of the guerrilla offensive, the young commander said that the army \"cannot enter\" the \"area under rebel control,\" but it is attacking the rebels from the national police headquarters and using helicopter gunships.    \"however, the people have the trump card (for the success of the offensive),\" he added.    amilcar, who is 26-years-ago and looks like a student, was walking down the hallways of one of the cramped five-story apartment buildings in zacamil while explaining that the goal of the rebel offensive is \"to seek options for building peace in el salvador.\"    he added that the guerrillas seek \"to disrupt the dialogue conditions, and go to the conversations with a political and military advantage so that the government will agree with us on what the people want: democracy, a people's economic policy, and a purge in the armed forces, among other things.\"    the guerrillas and the government of el salvador have held two meetings in recent months, the first one in mexico and the second one in costa rica.  a third meeting was to be held shortly in venezuela, but the fmln (farabundo marti national liberation front) announced that it will not attend.    the fmln launched the most important military offensive since 1981 on 11 november, attacking 50 military positions, 20 of them in san salvador.    in the first 24 hours, the offensive has caused nearly 300 casualties (127 dead and 155 wounded) according to the army, and over 400 casualties according to the guerrillas.    the offensive has been named \"out with the fascists! febe elizabeth lives!\" in homage to a trade union leader killed 13 days ago along with nine other workers in a dynamite explosion in the capital city attributed to the ultrarightist death squads.    armed with an automatic ak-47 rifle, amilcar said that the fmln \"has consolidated the zacamil, cuscatancingo, mejicanos, and panama neighborhoods, and we have besieged the 1st infantry brigade.\"    all the places he mentioned are in northern san salvador, where the bloodiest clashes between the guerrillas and the government troops have taken place.    at nightfall on 12 november and prior to the curfew that begins at 2000 (0200 gmt), the residents of zacamil were outside their buildings carrying candles as there is no electricity.    amilcar assured that the guerrillas have inflicted at least 18 casualties on the armed forces in that area and have seized about 20 rifles and 1 m-60 machinegun.    \"this offensive is a military and political achievement. as a result of the closing of the comalapa international airport, the main airport of the country, we have succeeded in letting the world that we are at war and are an emerging power,\" the rebel commander said.    comalapa airport, located 50 km south of san salvador, was closed \"for security reasons.\"    acording to the fmln clandestine station, radio venceremos, the guerrilla fighters destroyed three military helicopters on the ground and caused some damage on the airports's main landing strip.    referring to the government's decision to impose a curfew and a nationwide state of siege effective tonight, commander amilcar said: \"we had already taken this into consideration when we launched the offensive.\"    the government \"cannot act indiscriminately against the civilian population,\" amilcar said; adding that \"the citizens' rights were suspended to bomb the places taken over by our forces.\"    the people of zacamil and other neighborhoods located north of the capital have lived in terror since saturday, 11 november, when they were trapped in the crossfire between the rebels and the military, subjected to the air raids and the threat that living with the guerrilla members represents to them.    at least two civilians have died in zacamil and five more have been wounded, including two children, as a result of the armed clashes.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "ultrarightist death squads",
+                    "death squads"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [],
+            "hum_tgt_name": [
+                [
+                    "febe elizabeth"
+                ]
+            ],
+            "incident_instrument_id": [
+                [
+                    "dynamite"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0017": {
+        "doc": "heavy clashes are taking place right now in escalon and san benito residential areas.  there is no going back.  we have broken the defensive lines of the enemy.  we have broken (words indistinct) in the capital city, we are fighting in front of the dens of colonel ponce and other officers who have turned the war into a business. those officers have luxurious mansions in miami.  every weekend and even in spite of the war, col ponce has orgies in his luxurious homes in the country's interior.  soldiers, patriotic officers, we call on you to join the people and join our front.  patriotic officers, who are listening to us, do not allow more bombings in our capital city by the genocidal tandona group (1966 graduating class of the capt gen gerardo barrios military school).  young officers, lieutenants who are being killed in the residential areas and neighborhoods of the capital city, why should you be killed while defending ponce's mansions?  this is the last scenario of the last chapter in which the fmln (farabundo marti national liberation front) will achieve the victory of the people.  we call on your conscience, young patriotic officer.    just look at what happened in the bombings of zacamil.  over 500 homes were razed.  are you going to allow the high command to finish off the city, to finish off the neighborhoods and residential areas where your relatives might be?  you saw what happened in zacamil, mejicanos, soyapango.  patriotic officer, it is time we sit down to talk, to see what we can do with our fatherland, and what are we going to do with la tandona.  patriotic officers who are listening to us: it is useless to continue defending; to continue defending what, we ask you.  the fatherland?  what fatherland?  the fatherland you are told you are defending are the millions and the mansions of col ponce and of col elena fuentes.  patriotic officers: the time is here, take one step forward.    we have more reports from san salvador: early this morning, combat has been resumed in the following places: escalon, san benito, and la sultana residential areas.  these attacks are against the soldiers from military detachment no. 6 and the cavalry.  combats are also reported north of ayutuxtepeque, against soldiers from the 4th and 1st infantry brigade.  there are also clashes in the area of metropolis and zacamil neighborhoods against soldiers from the bracamonte battalion.    it is important to point out that in san benito and la sultana residential areas, we are fighting against soldiers from sonsonate, and not from san salvador.  the soldiers are from military detachment no. 6 of sonsonate.  troops from sonsonate have been brought into san salvador, because the high command has lost control of the situation. in other words, there is a mixture of soldiers from all parts of the country in the capital city.  this has yielded negative results for the high command.  in the capital city, there have been clashes between the atlacatl battalion and the national police, and the national guard has attacked troops from military detachment no. 6. these are little soldiers from sonsonate who have been brought into the capital city, and they are not familiar with the city.  they are clashing against each other.    clashes are also reported with the 4th infantry brigade and the 1st infantry brigade in ayutuxtepeque.  in other words, the 4th infantry brigade is fighting in ayutuxtepeque.  what will happen in the interior of the country?  the garrisons have been left empty.  the san francisco gotera garrison has been left without anyone.  the 4th infantry brigade is being left by itself, as well as the military detachment no. 1.  the colonels are desperate and are bringing troops into the capital city.    this is a good report.  the 4th infantry brigade and military detachment no. 6 are in the capital.  this is the situation on this morning of victorious battles.  who would believe it?  the sonsonate soldiers are fighting in the capital city.  this gives us a general picture of the defeat.  if the sonsonate troops are fighting in the last defensive line, this means that the sonsonate lines have been wiped out.    attention, fmln antiaircraft units have opened fire with their m-60 machineguns against uh-1h helicopters that are flying over the residential areas of the oligarchy.  likewise, a helicopter is right now flying over the armed forces general staff offices.  fmln units are firing their anti-aircraft weapons in the escalon residential area.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "high command"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "tandona group",
+                    "la tandona"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "homes"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": []
+        }
+    },
+    "TST-MUC3-0018": {
+        "doc": "a powerful bomb hidden in a truck exploded outside the headquarters of colombia's secret police wednesday, causing severe damage, bogota mayor andres pastrana said.    early reports said several people were killed and injured.    mr. pastrana said the bomb exploded outside the building of the secret police, known from the spanish initials as das (administrative department of security), in western bogota at 7:35 a.m.    the nearby offices of the bogota transportation department were also damaged, he said.",
+        "roles": {
+            "perp_individual_id": [],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "headquarters of colombia's secret police",
+                    "building of the secret police",
+                    "das",
+                    "administrative department of security"
+                ],
+                [
+                    "nearby offices of the bogota transportation department",
+                    "offices of the bogota transportation department"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "powerful bomb hidden in a truck",
+                    "bomb hidden in a truck"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0019": {
+        "doc": "the treasury police have informed this network that terrorist (words indistinct) alberto chica fernandez, a leader in the (name indistinct) labor union, confessed that the fmln (farabundo marti national liberation front) terrorist leaders may initiate summary actions with a view to purging the leaders of leftist groups because of the failure of the so-called \"final offensive to the end.\"    chica said that the terrorist leadership has violently (word indistinct) humberto centeno, marco tulio lima, and an individual identified only as julio cesar, from the unts (national union of salvadoran workers), as well as other leftist leaders, for providing false information regarding the conditions for a popular insurrection.    according to chica, the fmln leaders in managua decided to launch the offensive, trusting the unts leaders' reports that conditions were right for an insurrection because febe elizabeth velazquez' death in the dynamite attack against fenastras (salvadoran workers national union federation) had ignited the people's spirits.  the prisoner said that the fmln may carry out a summary trial in the style of communist parties against those responsible for the failure.    now, he said, to save themselves from the responsibility of having deceived the terrorist criminals who allowed themselves to be led by lies, the unts leaders are expected to call news conferences to announce that their struggle continues.    meanwhile, a report from zacatecoluca, la paz department, indicates that fmln terrorist criminals, using sam-7 missiles, attacked a salvadoran air force 0-2 airplane which was in the area directing support near piedra grande abajo in the jurisdiction of zacatecoluca. no damages or casualties were reported.    another fmln missile was fired from las piedras hill, in the same area, against another salvadoran air force 0-2 airplane, but the airplane was not damaged.  the source says the missile exploded in the air over zacatecoluca.    the air force, to which experienced pilots lend their professional services, is admired by the people, who are grateful to their armed forces.",
+        "roles": {
+            "perp_individual_id": [],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "fenastras",
+                    "salvadoran workers national union federation"
+                ]
+            ],
+            "hum_tgt_name": [
+                [
+                    "febe elizabeth velazquez"
+                ],
+                [
+                    "fenastras"
+                ]
+            ],
+            "incident_instrument_id": [
+                [
+                    "dynamite"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0020": {
+        "doc": "official sources today reported that at least eight people, including soldiers, rebels, and civilians, were killed during clashes between the army and guerrillas over the past weekend in various points of the country.    military spokesmen for the 6th infantry brigade, headquartered in the eastern usulutan department, told acan-efe that two rebels were killed and one wounded during a clash with government troops in san agustin.    meanwhile, the armed forces press committee (coprefa) reported that the bodies of two guerrillas, who were presumably killed during clashes with the army, were found by soldiers in the outskirts of santa tecla, in the central la libertad department.    coprefa reported that two soldiers were killed during a clash with members of the farabundo marti national liberation front (fmln) in comasagua, about 28 km to the southwest of (san) salvador, where a rebel attack on a coffee processing plant was successfully repelled.    it reported that a civilian was killed in the crossfire and that a soldier was also killed during clashes in zaragoza, south of san salvador, where two guerrillas were wounded.    the military report stated that 10 rebels were wounded in tecoluca, san vicente department, about 60 km east of the capital, during an armed clash between insurgents and the 5th (infantry) brigade, headquartered in that department.    three other soldiers were wounded during an fmln ambush in guazapa, north of (san) salvador, one of the guerrillas' main bastions.    the salvadoran (air) force this morning bombed rebel positions in the outskirts of jucuapa, usulutan department, but no results are yet available, area residents told acan-efe.    the fmln this morning harrassed (army positions stationed near) ayutuxtepeque, north of (san) salvador, without inflicting any casualties.    coprefa also reported that the (armed) forces seized from the guerrillas 500 electric catapults, in the northern (chalatenango) department, which the fmln had used since last year to attack (san) salvador garrisons.    salvadoran (red) cross sources today reported that a 48-year-old woman identified as maria luz lopez was wounded last night when a powerful bomb, which damaged several businesses in (san) salvador, exploded.    the bomb was planted in a heavily commercial area of downtown (san) salvador causing heavy property loses, according to the owners who provided no specific figures.    this is the fourth dynamite attack on businesses in (san) salvador so far in 1990.    the guerrillas intensified their acts of sabotage against the economy, especially against the entire electrical power system, on 2 january when an unilateral military truce they decreed over the christmas and new year holidays had expired.",
+        "roles": {
+            "perp_individual_id": [],
+            "perp_organization_id": [
+                [
+                    "farabundo marti national liberation front",
+                    "fmln"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "businesses"
+                ]
+            ],
+            "hum_tgt_name": [
+                [
+                    "maria luz lopez"
+                ]
+            ],
+            "incident_instrument_id": [
+                [
+                    "bomb",
+                    "powerful bomb"
+                ],
+                [
+                    "dynamite"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0021": {
+        "doc": "it was officially announced today that six salvadoran soldiers were killed as a result of clashes with salvadoran rebels in northern el salvador over the past few hours.  meanwhile, it was also announced that the rebels attacked military positions in san salvador, blew up a store, and burned a public bus.    the armed forces press committee (coprefa) reported that the farabundo marti national liberation front (fmln) and members of the 4th infantry brigade met in heavy clashes in the hamlet of el zungano, in chalatenango department, in the northern part of the country, on the afternoon of 1 february.  six soldiers were killed as a result of the clashes.  coprefa added that several guerrillas were killed or wounded.    in addition, it was reported that the fmln, an armed group that has been fighting against the government for almost 10 years, harassed two national guard posts last night.  the police reported that a powerful bomb went off at an electrical appliance store in downtown san salvador this morning, but causing only property damage.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "salvadoran rebels",
+                    "rebels"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "farabundo marti national liberation front",
+                    "fmln"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "store",
+                    "electrical appliance store"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "powerful bomb",
+                    "bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0022": {
+        "doc": "fmln-fdr (farabundo marti national liberation front-revolutionary democratic front) terrorist groups have continued their treacherous attacks against civilians and police officers in the capital and throughout the countryside, openly ignoring the agreements reached by their leaders with a government delegation in geneva, switzerland.    the armed forces telecommunications instruction center (citfa) reported that a man and a woman were critically wounded when the vehicle in which they were travelling near olocuilta, la paz department, was machinegunned by fmln terrorists on the evening of 4 april.    the wounded are mauricio campos and concepcion herrera, who were taken to a health center by the red cross, the sources added.    the national police reported that two of its agents and a civilian were fired at by terrorists at 1800 on 4 april, as they inspected a car crash between the highway to comalapa airport and 49th south avenue in the montserrat neighborhood.    \"the policemen were machinegunned down by people in a moving vehicle and sustained wounds which have left them in extremely critical condition,\" a security corps spokesman said.    the two agents were assisted by people who repudiated the attack.    a pedestrian, later identified as manuel alvaro mendoza, was also struck by the bullet and he is at rosales hospital.    a military spokesman also reported that a group of persons who identified themselves as fmln-fdr members kidnapped a peasant, jose manuel posada, near la colmena, in el carmen district, cuscatlan department.    meanwhile, 9-year-old yohalmo antonio ortiz was injured by shrapnel when terrorists threw a bomb at civil defense members in nejapa, north of san salvador, while harassing the paramilitary group's outpost. the boy is at bloom hospital.    in the document signed by the government delegation and the fmln-fdr leaders, the latter pledged not to engage in terrorists attacks that might damage assets or injure persons, but \"urban commandos\" or \"terrorists squads\" that operate in san salvador have either not been informed of this resolution or they act independently, the military sources said.    referring to the 2 april car bomb explosion perpetrated in santa tecla, the fmln-fdr claimed responsibility for the attack in a communique, and said that it was \"an action aimed directly at the police\" and that \"they regret the death of a civilian,\" but they did not mention compensation for the relatives.    also, the fmln-fdr claimed responsibility for the attack on general rafael humberto larios's son-in-law, accusing him of being a military pilot -- when in fact he has been a civilian pilot and he was working in a small automobile spare parts distribution company at the time of the attack.    the young man, otto milla, is still in a coma and his pancreas was removed in the latest surgical operation.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "fmln terrorists",
+                    "terrorists"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "fmln",
+                    "fmln-fdr",
+                    "farabundo marti national liberation front-revolutionary democratic front"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "paramilitary group's outpost",
+                    "outpost"
+                ]
+            ],
+            "hum_tgt_name": [
+                [
+                    "yohalmo antonio ortiz"
+                ]
+            ],
+            "incident_instrument_id": [
+                [
+                    "bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0023": {
+        "doc": "fmln-fdr (farabundo marti national liberation front-revolutionary democratic front) terrorist groups have continued their treacherous attacks against civilians and police officers in the capital and throughout the countryside, openly ignoring the agreements reached by their leaders with a government delegation in geneva, switzerland.    the armed forces telecommunications instruction center (citfa) reported that a man and a woman were critically wounded when the vehicle in which they were travelling near olocuilta, la paz department, was machinegunned by fmln terrorists on the evening of 4 april.    the wounded are mauricio campos and concepcion herrera, who were taken to a health center by the red cross, the sources added.    the national police reported that two of its agents and a civilian were fired at by terrorists at 1800 on 4 april, as they inspected a car crash between the highway to comalapa airport and 49th south avenue in the montserrat neighborhood.    \"the policemen were machinegunned down by people in a moving vehicle and sustained wounds which have left them in extremely critical condition,\" a security corps spokesman said.    the two agents were assisted by people who repudiated the attack.    a pedestrian, later identified as manuel alvaro mendoza, was also struck by the bullet and he is at rosales hospital.    a military spokesman also reported that a group of persons who identified themselves as fmln-fdr members kidnapped a peasant, jose manuel posada, near la colmena, in el carmen district, cuscatlan department.    meanwhile, 9-year-old yohalmo antonio ortiz was injured by shrapnel when terrorists threw a bomb at civil defense members in nejapa, north of san salvador, while harassing the paramilitary group's outpost. the boy is at bloom hospital.    in the document signed by the government delegation and the fmln-fdr leaders, the latter pledged not to engage in terrorists attacks that might damage assets or injure persons, but \"urban commandos\" or \"terrorists squads\" that operate in san salvador have either not been informed of this resolution or they act independently, the military sources said.    referring to the 2 april car bomb explosion perpetrated in santa tecla, the fmln-fdr claimed responsibility for the attack in a communique, and said that it was \"an action aimed directly at the police\" and that \"they regret the death of a civilian,\" but they did not mention compensation for the relatives.    also, the fmln-fdr claimed responsibility for the attack on general rafael humberto larios's son-in-law, accusing him of being a military pilot -- when in fact he has been a civilian pilot and he was working in a small automobile spare parts distribution company at the time of the attack.    the young man, otto milla, is still in a coma and his pancreas was removed in the latest surgical operation.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "urban commandos"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "fmln-fdr",
+                    "farabundo marti national liberation front-revolutionary democratic front"
+                ]
+            ],
+            "phys_tgt_id": [],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "car bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0024": {
+        "doc": "police sources have reported that unidentified individuals planted a bomb in front of a mormon church in talcahuano district. the bomb, which exploded and caused property damage worth 50,000 pesos, was placed at a chapel of the church of jesus christ of latter-day saints located at no 3856 gomez carreno street.    the shock wave destroyed a wall, the roof, and the windows of the church, but did not cause any injuries.    carabineros bomb squad personnel immediately went to the location and discovered that the bomb was made of 50 grams of an-fo (ammonium nitrate-fuel oil blasting agents) and a slow fuse.    carabineros special forces soon raided a large area to try to arrest those responsible for the attack, but they were unsuccessful.    the police have already informed the appropriate authorities, that is, the national prosecutor and the talcahuano criminal court, of this attack.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "unidentified individuals"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "mormon church",
+                    "church",
+                    "chapel of the church of jesus christ of latter-day saints located at no 3856 gomez carreno street",
+                    "chapel of the church of jesus christ of latter-day saints",
+                    "chapel",
+                    "church of jesus christ of latter-day saints"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "bomb"
+                ],
+                [
+                    "50 grams of an-fo",
+                    "an-fo",
+                    "ammonium nitrate-fuel oil blasting agents"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0025": {
+        "doc": "a corporal and a guerrilla have been killed in the most recent clashes between the army and the fmln.  according to military reports, corporal alexander molina granados was killed as he was trying to defuse a mine placed by the insurgents on la noria bridge, in san marcos lempa. according to military authorities, a lieutenant and five civilians who were passing through the area at the time were injured by the explosion.    meanwhile, troops of the civiplan battalion killed an fmln guerrilla in a skirmish on the slopes of la cruz hill in chalatenango department.    residents of quetzaltepeque reported that the rebels downed an electric tower last night on the outskirts of the town.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "insurgents"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "fmln"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "la noria bridge"
+                ]
+            ],
+            "hum_tgt_name": [
+                [
+                    "alexander molina granados"
+                ]
+            ],
+            "incident_instrument_id": [
+                [
+                    "mine"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0026": {
+        "doc": "rancagua -- the national vanguard offices in this city were attacked on 29 july at 2220.  unidentified individuals detonated a bomb that damaged the windows of the national vanguard offices and those of the neighboring houses.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "unidentified individuals"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "national vanguard offices"
+                ],
+                [
+                    "neighboring houses",
+                    "houses"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0027": {
+        "doc": "early this morning, two powerful bombs rocked san salvador's metropolitan area. according to reports, the bombs were planted by fmln urban guerrillas.  the powerful bombs were planted in two government vehicles, license plates 6906 and 6895, used by the rural basic health plan section of the health ministry.  the destroyed cars were parked at first street west and 21st avenue north. the bombs, planted under the car hoods, shattered the windshields and destroyed the car bodies. strangely enough, the rebels did not leave leaflets, as is their custom. (passage omitted)    in a communique read this afternoon over the phone, the fmln general command claimed responsibility for the destruction of the two vehicles. they said this is part of the urban guerrillas' latest campaign to sabotage government property.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "fmln urban guerrillas",
+                    "urban guerrillas"
+                ],
+                [
+                    "fmln general command"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "fmln",
+                    "fmln general command"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "government vehicles, license plates 6906 and 6895, used by the rural basic health plan section of the health ministry",
+                    "government vehicles, license plates 6906 and 6895",
+                    "government vehicles",
+                    "vehicles",
+                    "cars"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "two powerful bombs",
+                    "powerful bombs",
+                    "bombs"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0028": {
+        "doc": "two terrorist attacks were carried out in lima last night.    the lima agrarian unit (unidad agraria de lima) and the economy ministry were the targets of the insane terrorist actions.    a powerful bomb exploded in the front of departmental agrarian unit no 6, located on block no 5 of uruguay avenue. the attack came at approximately 2230 last night. members of the civil guard, the republican guard antiexplosives brigade, and the peruvian investigative police went to the site of the explosion.    the members of the republican guard antiexplosives brigade are investigating to determine the magnitude of the bomb used in this attack. (recorded passage omitted)    the economy and finance ministry building was another target of the terrorists' actions this evening. the terrorists planted a bomb inside a vehicle belonging to emol entero. the bomb went off at approximately 2230.  (recorded passage omitted)",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "terrorists"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "lima agrarian unit",
+                    "unidad agraria de lima",
+                    "departmental agrarian unit no 6"
+                ],
+                [
+                    "economy ministry",
+                    "economy and finance ministry building"
+                ],
+                [
+                    "vehicle belonging to emol entero",
+                    "vehicle"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "powerful bomb",
+                    "bomb"
+                ],
+                [
+                    "bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0029": {
+        "doc": "three new terrorist attacks were carried out early this morning, at an airport in barranquilla, at the communist party headquarters in florencia, and at the cerro azul military installations in uraba. the police confirmed that unidentified individuals armed with machineguns attacked the colombian air force installations in the capital of atlantico. there were no casualties.    the malambo area, close to the barranquilla international airport, where the air base is located, was immediately militarized. guards at the site repelled the attack, which was apparently staged by guerrillas.    similarly, it was learned that a bomb exploded today at the communist party headquarters in the capital of caqueta, causing considerable property damage. it was immediately announced that no one had been injured or killed in the extremist action.    it was also announced that suspected subversives staged another attack on the installations of the battalion stationed in uraba at cerro azul, near turbo.    these terrorist attacks took place 1 day after the serious attack launched at the 2d army division headquarters in bucaramanga, which resulted in seven people injured and considerable property damage, affecting nine homes.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "terrorist",
+                    "extremist"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "communist party headquarters"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0030": {
+        "doc": "last night in san clemente district, 9 km north of pisco, a group of terrorists dynamited machinery belonging to albolones peruanos, inc.    approximately 20 terrorists barged into the plant armed with submachineguns and molotov cocktails and overpowered some 20 workers in order to dynamite some machinery.  after doing so, the terrorists fled from the site.    members of the security forces responded and asked for support from the city of ica.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "group of terrorists",
+                    "terrorists",
+                    "approximately 20 terrorists"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "machinery belonging to albolones peruanos, inc",
+                    "machinery"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "molotov cocktails"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0031": {
+        "doc": "a terrorist attack, in which czechoslovak bombs were used, has destroyed four high tension towers in the central region. this attack has cut the electricity supply to a vast region between copiapo and santiago. the blackout occurred on saturday night, 1 october, and lasted for approximately one-half hour in the metropolitan region.    according to endesa (national electric power, inc.), one of the towers knocked down was located on km 24 of the melipilla-rapel highway.    the tower, located in the maitenes sector, is one of the main towers of the high tension network.    another tower destroyed by the terrorists was tower no 430 in the itahua-alto jahuel sector, which is connected to the main electricity network.    in addition to these four destroyed towers, other explosions were heard that same night in santiago. they were caused by bombs planted by terrorists who seek to frighten the population.    according to police sources, the bombs used to cause so much damage are powerful czechoslovak-made plastic bombs, of the same type that were found among the clandestine arsenals smuggled into the country by the marxist leftists at carrizal bajo.    the terrorists also used tnt in their bomb attacks.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "terrorists"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "high tension towers",
+                    "towers",
+                    "tower"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "czechoslovak bombs",
+                    "bombs",
+                    "powerful czechoslovak-made plastic bombs",
+                    "czechoslovak-made plastic bombs",
+                    "plastic bombs"
+                ],
+                [
+                    "tnt"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0032": {
+        "doc": "a terrorist attack, in which czechoslovak bombs were used, has destroyed four high tension towers in the central region. this attack has cut the electricity supply to a vast region between copiapo and santiago. the blackout occurred on saturday night, 1 october, and lasted for approximately one-half hour in the metropolitan region.    according to endesa (national electric power, inc.), one of the towers knocked down was located on km 24 of the melipilla-rapel highway.    the tower, located in the maitenes sector, is one of the main towers of the high tension network.    another tower destroyed by the terrorists was tower no 430 in the itahua-alto jahuel sector, which is connected to the main electricity network.    in addition to these four destroyed towers, other explosions were heard that same night in santiago. they were caused by bombs planted by terrorists who seek to frighten the population.    according to police sources, the bombs used to cause so much damage are powerful czechoslovak-made plastic bombs, of the same type that were found among the clandestine arsenals smuggled into the country by the marxist leftists at carrizal bajo.    the terrorists also used tnt in their bomb attacks.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "terrorists"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "high tension towers",
+                    "towers",
+                    "tower",
+                    "tower no 430"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "czechoslovak bombs",
+                    "bombs",
+                    "powerful czechoslovak-made plastic bombs",
+                    "czechoslovak-made plastic bombs",
+                    "plastic bombs"
+                ],
+                [
+                    "tnt"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0033": {
+        "doc": "a terrorist attack, in which czechoslovak bombs were used, has destroyed four high tension towers in the central region. this attack has cut the electricity supply to a vast region between copiapo and santiago. the blackout occurred on saturday night, 1 october, and lasted for approximately one-half hour in the metropolitan region.    according to endesa (national electric power, inc.), one of the towers knocked down was located on km 24 of the melipilla-rapel highway.    the tower, located in the maitenes sector, is one of the main towers of the high tension network.    another tower destroyed by the terrorists was tower no 430 in the itahua-alto jahuel sector, which is connected to the main electricity network.    in addition to these four destroyed towers, other explosions were heard that same night in santiago. they were caused by bombs planted by terrorists who seek to frighten the population.    according to police sources, the bombs used to cause so much damage are powerful czechoslovak-made plastic bombs, of the same type that were found among the clandestine arsenals smuggled into the country by the marxist leftists at carrizal bajo.    the terrorists also used tnt in their bomb attacks.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "terrorists"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "high tension towers",
+                    "towers",
+                    "tower"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "czechoslovak bombs",
+                    "bombs",
+                    "powerful czechoslovak-made plastic bombs",
+                    "czechoslovak-made plastic bombs",
+                    "plastic bombs"
+                ],
+                [
+                    "tnt"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0034": {
+        "doc": "an explosion has destroyed a section of the multipurpose pipeline running from barrancabermeja to bucaramanga. the explosion occurred in alto de san pablo while gasoline and propane gas were being pumped to bucaramanga. we have a report now from teresa rueda.    (begin recording) (rueda) communications to and from puerto petrolero and bucaramanga have been cut off since early today, after an attempt to dynamite the multipurpose pipeline destroyed a 100-meter section of the central highway.    the supply of gas to bucaramanga will also be affected by this event. it is estimated that it will take at least 3 days to restore normal traffic, because it will be necessary to use dynamite to remove rocks currently blocking the highway.    the attempted sabotage occurred at the 65-km mark on the bucaramanga - barrancabermeja highway, 20 km from the place where a military convoy was ambushed last wednesday. this is the second time that an attempted sabotage of the bucaramanga - barrancabermeja multipurpose pipeline, which carries propane gas, gasoline, and acpm (not further identified) has taken place. the explosion destroyed a 30-meter section of pipeline, and sparked a fire that has not yet been extinguished.    losses caused by the sabotage, which has been attributed to the eln, have yet to be ascertained. it is estimated that repairs to the highway alone will cost the public works ministry 5 million pesos.    (ismael orozco, public works director for the 5th district) well, after initial talks with ecopetrol (colombian petroleum enterprise) technicians today, beginning at 1700, after the fire is under control, they will begin restoring service on the oil pipeline.    (rueda) at this time, there is traffic congestion near the sugamoso bridge. (end recording) (passage omitted)    while still on the subject, ecopetrol's president, who traveled this morning to barrancabermeja to attend a forum on the magdalena river, reported that, so far this year, terrorist attacks have cost his company $300 million.  we have this report from maria clara gracia.    (begin recording) (gracia) ecopetrol has lost 95 billion pesos in revenues this year due to the 44 terrorist attacks on the cano limon - covenas oil pipeline. in these attacks, 13.2 million barrels of crude oil have been lost. the areas most affected by these attacks are in sucre, arauca, norte de santander, and santander departments.    (reporter alvaro ayala) doctor, could these terrorist attacks lead to an increase in fuel prices in colombia?    (dr andres restrepo londono, president of ecopetrol) obviously, there will come a time when, faced with increasing internal production costs and falling revenues, we are going to have to consider compensating our losses with an increase in domestic oil prices, but that is a measure we are not about to adopt at this time.    (gracia) today's landslide, which destroyed a section of the multipurpose pipeline between barrancabermeja and bucaramanga, has resulted in estimated losses totalling 1.435 billion pesos. (passage omitted) (end recording)",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "terrorist"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "eln"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "section of the multipurpose pipeline running from barrancabermeja to bucaramanga",
+                    "section of the multipurpose pipeline",
+                    "multipurpose pipeline running from barrancabermeja to bucaramanga",
+                    "multipurpose pipeline",
+                    "pipeline",
+                    "bucaramanga - barrancabermeja multipurpose pipeline",
+                    "30-meter section of pipeline",
+                    "oil pipeline",
+                    "section of the multipurpose pipeline between barrancabermeja and bucaramanga"
+                ],
+                [
+                    "100-meter section of the central highway",
+                    "section of the central highway",
+                    "central highway",
+                    "highway"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": []
+        }
+    },
+    "TST-MUC3-0035": {
+        "doc": "a small home-made bomb exploded at dawn today at the headquarters of the shoe industry workers union, in this city, causing small material damages.    the bomb, made with black gunpowder, was planted at 0330 on the windowsill of the building located on 2157 tucuman street in barrio alta, cordoba, where the bomb interrupted union functions. this union is headed by miguel montero.    the explosion caused some panic near the area, but it was soon discovered that the blast only shattered windows.  no casualties were reported. (passage omitted)",
+        "roles": {
+            "perp_individual_id": [],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "headquarters of the shoe industry workers union"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "small home-made bomb",
+                    "home-made bomb",
+                    "bomb"
+                ],
+                [
+                    "black gunpowder",
+                    "gunpowder"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0036": {
+        "doc": "it was disclosed in this capital today that a bomb exploded at the front door of the home of a peruvian army general, causing damages but no casualties. the bomb went off 48 hours after a member of the army sustained a bullet wound.    the terrorist attack was perpetrated at dawn on saturday, 9 october, by a group of unidentified individuals who hurled a bomb at the home of general enrique franco, in the san borja neighborhood in lima, from a passing vehicle.    the bomb seriously damaged the general's vehicle, destroyed his home's front door, and shattered its window panes, as well as those of neighboring houses.  according to the local media that obtained information from police sources, the explosion, however, did not hurt any of the members of the general's family, who were sleeping at the the time.    two days ago, an army technician, who was driving home, sustained a bullet wound when a group of unidentified individuals, riding in another vehicle, fired their weapons at him. the incident occurred near la bandera plaza in the pueblo libre district of lima.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "group of unidentified individuals",
+                    "unidentified individuals",
+                    "individuals"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "home of a peruvian army general",
+                    "home of general enrique franco"
+                ],
+                [
+                    "vehicle",
+                    "general's vehicle"
+                ],
+                [
+                    "neighboring houses",
+                    "houses"
+                ]
+            ],
+            "hum_tgt_name": [
+                [
+                    "enrique franco"
+                ]
+            ],
+            "incident_instrument_id": [
+                [
+                    "bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0037": {
+        "doc": "two bombs set off by fmln urban guerrillas last night partially destroyed the recently built la torre de cristal building on roosevelt avenue in san salvador.  the explosions caused no injuries, but damage to the eastern side of the first floor is estimated at several million colons. it is not known who owns the building.  (passage omitted)    in other military actions, one guerrilla was killed and two soldiers were injured in clashes in san vicente department.  according to official reports, the clash took place near tecoluca when rebels tried to attack troops from the military engineers detachment.    the fmln last night blew up the administrative offices of the (name indistinct) seaside resort in la paz department.  there were no injuries.    at daybreak today, fmln guerrillas blew up a power pole at galera quemada canton, ilobasco jurisdiction.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "fmln urban guerrillas",
+                    "urban guerrillas"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "fmln"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "recently built la torre de cristal building",
+                    "la torre de cristal building",
+                    "building"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "two bombs",
+                    "bombs"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0038": {
+        "doc": "two bombs set off by fmln urban guerrillas last night partially destroyed the recently built la torre de cristal building on roosevelt avenue in san salvador.  the explosions caused no injuries, but damage to the eastern side of the first floor is estimated at several million colons. it is not known who owns the building.  (passage omitted)    in other military actions, one guerrilla was killed and two soldiers were injured in clashes in san vicente department.  according to official reports, the clash took place near tecoluca when rebels tried to attack troops from the military engineers detachment.    the fmln last night blew up the administrative offices of the (name indistinct) seaside resort in la paz department.  there were no injuries.    at daybreak today, fmln guerrillas blew up a power pole at galera quemada canton, ilobasco jurisdiction.",
+        "roles": {
+            "perp_individual_id": [],
+            "perp_organization_id": [
+                [
+                    "fmln"
+                ]
+            ],
+            "phys_tgt_id": [],
+            "hum_tgt_name": [],
+            "incident_instrument_id": []
+        }
+    },
+    "TST-MUC3-0039": {
+        "doc": "two bombs set off by fmln urban guerrillas last night partially destroyed the recently built la torre de cristal building on roosevelt avenue in san salvador.  the explosions caused no injuries, but damage to the eastern side of the first floor is estimated at several million colons. it is not known who owns the building.  (passage omitted)    in other military actions, one guerrilla was killed and two soldiers were injured in clashes in san vicente department.  according to official reports, the clash took place near tecoluca when rebels tried to attack troops from the military engineers detachment.    the fmln last night blew up the administrative offices of the (name indistinct) seaside resort in la paz department.  there were no injuries.    at daybreak today, fmln guerrillas blew up a power pole at galera quemada canton, ilobasco jurisdiction.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "guerrillas",
+                    "fmln guerrillas"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "fmln"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "power pole"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": []
+        }
+    },
+    "TST-MUC3-0040": {
+        "doc": "according to military sources, a bloody guerrrilla offensive today left 35 guerrillas and 5 soldiers dead, 6 civilians wounded, and 5 bridges partially destroyed.    the outbreak of the violence coincided with the reply from all the rebel groups to an official peace plan and with the confirmation by the labor federations that they will hold a general strike on thursday despite government efforts to prevent it.    the so-called national guerrilla coordinating board (cng) proposed to president virgilio barco the holding of a summit between the rebel leaders and the government, defense, and energy and mines ministers at a place and date to be agreed upon.    the document proposed that the mediator of the dialogue be the democratic coexistence commission (comision de convivencia democratica), headed by msgr dario castrillon, president of the latin american bishops conference. the document is viewed as the cng's official reply to the government's peace plan.    guerrillas of the farc and the popular liberation army (epl) attacked four towns in northern colombia, leaving 17 guerrillas and 2 soldiers dead and 3 bridges partially destroyed.    the defense ministry reported that farc guerrillas ambushed a military convoy in huila department, killing three soldiers. it also reported that three rebels were killed in clashes in southern colombia.    it added that nine guerrillas of the army of national liberation were killed in clashes with troops of the 4th infantry brigade on the border of antioquia and choco departments and that six farc rebels were killed in caqueta department.    suspected guerrillas dynamited at dusk a bridge in bogota's urban center, injuring six people. the bridge did not sustain major damage. another bridge was blown up in santander department.    military sources said these were rebel actions in support of the strike and they charged that workers, peasants, and bus drivers are being threatened to force them to join the strike.    president virgilio barco headed a meeting of the national security council to adopt measures to prevent disorders during the planned strike and to guarantee public transportation for the people.    the government and the workers yesterday broke off their talks after being unable to reach agreement on an increase of the minimum wage and on a freeze in the prices of staples.    the strike, called by the united workers confederation and the general confederation of labor, will protest the fact that the government has not replied to labor demands they presented in may.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "guerrillas",
+                    "guerrillas of the farc and the popular liberation army",
+                    "guerrillas of the farc and the popular liberation army (epl)",
+                    "suspected guerrillas"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "epl",
+                    "popular liberation army"
+                ],
+                [
+                    "farc"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "bridge"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": []
+        }
+    },
+    "TST-MUC3-0041": {
+        "doc": "according to military sources, a bloody guerrrilla offensive today left 35 guerrillas and 5 soldiers dead, 6 civilians wounded, and 5 bridges partially destroyed.    the outbreak of the violence coincided with the reply from all the rebel groups to an official peace plan and with the confirmation by the labor federations that they will hold a general strike on thursday despite government efforts to prevent it.    the so-called national guerrilla coordinating board (cng) proposed to president virgilio barco the holding of a summit between the rebel leaders and the government, defense, and energy and mines ministers at a place and date to be agreed upon.    the document proposed that the mediator of the dialogue be the democratic coexistence commission (comision de convivencia democratica), headed by msgr dario castrillon, president of the latin american bishops conference. the document is viewed as the cng's official reply to the government's peace plan.    guerrillas of the farc and the popular liberation army (epl) attacked four towns in northern colombia, leaving 17 guerrillas and 2 soldiers dead and 3 bridges partially destroyed.    the defense ministry reported that farc guerrillas ambushed a military convoy in huila department, killing three soldiers. it also reported that three rebels were killed in clashes in southern colombia.    it added that nine guerrillas of the army of national liberation were killed in clashes with troops of the 4th infantry brigade on the border of antioquia and choco departments and that six farc rebels were killed in caqueta department.    suspected guerrillas dynamited at dusk a bridge in bogota's urban center, injuring six people. the bridge did not sustain major damage. another bridge was blown up in santander department.    military sources said these were rebel actions in support of the strike and they charged that workers, peasants, and bus drivers are being threatened to force them to join the strike.    president virgilio barco headed a meeting of the national security council to adopt measures to prevent disorders during the planned strike and to guarantee public transportation for the people.    the government and the workers yesterday broke off their talks after being unable to reach agreement on an increase of the minimum wage and on a freeze in the prices of staples.    the strike, called by the united workers confederation and the general confederation of labor, will protest the fact that the government has not replied to labor demands they presented in may.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "guerrillas",
+                    "guerrillas of the farc and the popular liberation army",
+                    "guerrillas of the farc and the popular liberation army (epl)",
+                    "suspected guerrillas"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "epl",
+                    "popular liberation army"
+                ],
+                [
+                    "farc"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "bridge"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": []
+        }
+    },
+    "TST-MUC3-0042": {
+        "doc": "we are facing an escalation of violence caused by the fmln, which shows its military weakness more than anything else. the fmln is supposedly attacking military targets, but neither a jail nor a shopping mall is a military target. commercial areas or amusement places are not military targets. car bombs went off in such places lately. they went off at a chain of (words indistinct) and at a shopping mall. the fmln's strategy is simply to increase its terrorist actions.    for that reason, it is regrettable that the salvadoran government describes the fmln as a group in arms, because they are merely terrorist criminals. (passage omitted)    there is political weakness, because the armed forces are not given clear missions. we see the actions of the armed forces and the security corps are frustrated, because they spend time, effort, and men capturing terrorists while the government subsequently releases them for humanitarian reasons.    i believe the government must apply the laws more forcefully and stop deceiving the population with words such as democratization and with its great political demagogy. (end recording)    finally, ochoa perez criticized the meeting costa rican president oscar arias will hold with representatives of the fmln general command today. he said oscar arias is not the right person to deal with salvadoran internal affairs.",
+        "roles": {
+            "perp_individual_id": [],
+            "perp_organization_id": [
+                [
+                    "fmln"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "shopping mall"
+                ],
+                [
+                    "chain"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "car bombs"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0043": {
+        "doc": "in another act of violence, 18 people were killed near canasgordas in antioquia department. epl (popular liberation army) guerrillas blew up a bridge as a public bus, in which several policemen were traveling, was crossing it. the attack killed nine policemen and nine civilians, including four employees of the civil registry office, who had been in peque on sunday for the election of a new mayor. the bloody attack occurred in juntas de uramita, where the injured are being treated.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "guerrillas"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "epl",
+                    "popular liberation army"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "bridge"
+                ],
+                [
+                    "public bus",
+                    "bus"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": []
+        }
+    },
+    "TST-MUC3-0044": {
+        "doc": "six guerrillas of a still unidentified group died today in a skirmish with army troops in morelia, caqueta department.    meanwhile, in ciudad bolivar, antioquia department, insurgents apparently belonging to the national liberation army placed a bomb in the city's administrative offices and also destroyed four farms, causing approximately 100 million pesos in damage.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "insurgents apparently belonging to the national liberation army",
+                    "insurgents"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "national liberation army"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "city's administrative offices"
+                ],
+                [
+                    "farms"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0045": {
+        "doc": "members of the bomb squad have deactivated a powerful bomb planted at the andres avelino caceres park, where president alan garcia was due to participate in the commemoration of the battle of tarapaca.",
+        "roles": {
+            "perp_individual_id": [],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "andres avelino caceres park"
+                ]
+            ],
+            "hum_tgt_name": [
+                [
+                    "alan garcia"
+                ]
+            ],
+            "incident_instrument_id": [
+                [
+                    "bomb",
+                    "powerful bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0046": {
+        "doc": "twenty-six people, four of whom are policemen, were injured in a bomb explosion that occurred before dawn on 30 october. the bomb was placed in a dance hall in ayacucho, a city located south of lima.    the local press today reported that the police have attributed the attack to terrorists who used a home-made bomb called \"russian cheese.\" this bomb is made up of powder, tacks, pieces of iron, and steel wire. it explodes when it touches the floor.    ayacucho was the site of a similar explosion on 3 july when several unidentified people hurled explosives at a dance hall where the music group \"los shapis\" was playing. the \"los shapis\" music group has received death threats from the \"shining path\" guerrilla group because the latter believes \"los shapis\" play alienating music.    according to police sources, the \"shining path,\" which began its activities in ayacucho in may 1980, is responsible for the death of about 12,000 people and material losses estimated at $10 billion.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "terrorists"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "shining path"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "dance hall"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "bomb",
+                    "home-made bomb called \"russian cheese.\"",
+                    "home-made bomb"
+                ],
+                [
+                    "powder"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0047": {
+        "doc": "barranquilla -- a 45 percent cut in available electric power is currently in effect along the entire colombian atlantic coast. today is the 5th day of the energy crisis in the atlantic region, which was caused by the destruction of seven power towers of the national energy network.    only four corelca (electric corporation of the atlantic coast) units are working and generating 440 megawatts, while other corelca units are facing many operational problems due to a lack of gas.    the atlantic hydroelectric plant is generating approximately 70 megawatts. atlantic hydroelectric plant director eduardo velar de la rosa estimated that the electricity rationing will continue for another 5 days until the power towers blown up by terrorists (words indistinct) are repaired.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "terrorists"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "power towers of the national energy network",
+                    "power towers"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": []
+        }
+    },
+    "TST-MUC3-0048": {
+        "doc": "the armed forces have reported that two soldiers and one guerrilla were killed yesterday in fighting in san miguel and morazan departments. they also reported that the antel (national administration for telecommunications) office, court offices, and community center of dulce nombre de maria were dynamited by the fmln early this morning.    according to the reports, a large group of rebels entered the town and, after subduing the military guards, they dynamited the buildings. no casualties were reported.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "large group of rebels",
+                    "group of rebels",
+                    "rebels"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "fmln"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "court offices"
+                ],
+                [
+                    "community center"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": []
+        }
+    },
+    "TST-MUC3-0049": {
+        "doc": "presumed shining path maoist extremists ambushed and killed 68 peasants in the locality of balcon, 200 km north of the southern city of ayacucho.    a peasant defense patrol unit was combing the area in search of guerrillas when it was ambushed on 22 november, the newspaper expreso reported today.    the wave of violence has hit peruvian tourist establishments in the city of huaraz, capital of the ancash department, where four inns and hotels were bombed last night, damaging the buildings and injuring an 18 year-old girl.    in cusco, 1,000 km southeast of lima, a bus (as received) heading toward machu pichu went out of control as the result of sabotage and fell into a 60-meter ravine. the wives of the jersey city, united states, and cusco mayors died in this accident.    leftist senator enrique bernales ballesteros, president of the special commission for the investigation and study of terrorism and violence, has noted that the escalation of violence has claimed the lives of 21 people per day during the month of november. he said that the increased violence can be traced to actions by the terrorist groups shining path and tupac amaru revolutionary movement (mrta). these attacks were repressed by the forces of order.    senator bernales reported that 630 people were killed in violent acts in november and that 1,775 have been killed over the past 12 months.    bernales said that 403 people were killed in november as a result of violent acts, including 147 civilians, 165 presumed terrorists, 65 armed forces members, and 26 drug traffickers. a total of 227 people were killed in urban violent acts.    senator bernales added that a total of nearly 13,000 people have been killed since the terrorist violence began in 1980.    bernales expressed his concern over the fact that 67 percent of the people killed in violent acts involved youths who were between 15 and 29 years of age. he asked the government to establish guidelines to counter this social phenomenon.    amid this bloody and destructive situation, the peruvian episcopal conference has made a christmas appeal, asking that--without ignoring \"the seriousness of the situation\"--for a truce \"for peace, reconciliation, and tranquillity\" to prevail in the country.    the bishops said: \"recalling he who prevailed over death, we call upon those who have resorted to violence and killings as a solution to the evils of society, to allow the citizens for whom they claim to struggle to live like brothers.\"",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "terrorist groups",
+                    "presumed terrorists",
+                    "terrorists"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "shining path"
+                ],
+                [
+                    "tupac amaru revolutionary movement",
+                    "mrta"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "inns"
+                ],
+                [
+                    "hotels"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": []
+        }
+    },
+    "TST-MUC3-0050": {
+        "doc": "the army has reported that it inflicted 208 guerrilla casualties during clashes in november. meanwhile, the fmln rebels have said they inflicted 991 casualties on the army--including dead and wounded--as a result of their attacks, harassment, and ambushes during the same period.    the military report says 93 fmln guerrillas were killed and 115 wounded as a result of nationwide counterinsurgency military operations during the month of november.    the report added that during the same period, the army confiscated 105 high-caliber rifles, 2 m-60 machineguns, 20 revolvers of various calibers, more than 55,000 cartridges, 168 fragmentation grenades, 236 mines, 9 communication radios, and a large amount of material for homemade bombs.    the military report added that during the month of november, guerrillas killed 43 peasants, kidnapped 32, and caused the death of 6 people and crippled 23 others as a result of mine explosions.    in the war against public property--the pillar of a war economy--the military source reported that six mayorial offices and six national administration for telecommunications offices were damaged in various towns and six junction boxes were sabotaged.    in addition, 4 trains belonging to the salvadoran national railroad, fenadesal, were blown up, and 10 vehicles and 5 buses were partially damaged.    regarding damage to the electricity system, the fmln knocked down 46 towers and 136 high-tension power poles and damaged 11 transformers.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "fmln rebels",
+                    "rebels",
+                    "fmln guerrillas",
+                    "guerrillas"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "fmln"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "trains belonging to the salvadoran national railroad, fenadesal",
+                    "trains belonging to the salvadoran national railroad",
+                    "trains"
+                ],
+                [
+                    "vehicles"
+                ],
+                [
+                    "buses"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "mine"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0051": {
+        "doc": "the commander of military detachment no 4 today reported today the discovery of 22 dead guerrillas in morazan department. according to colonel roman alfonso barrera, the bodies were found near osicala following a search operation after an fmln attack on army positions in that area.    meanwhile, three guerrillas were killed yesterday during a clash with the 3d brigade from chiriligua, san gerardo, in san miguel department.    this morning, insurgents derailed a train in the soyapango jurisdiction. fenadesal (salvadoran national railroad) spokesmen said the incident took place at the km 249 point on the railway line where the train was derailed by a claymore mine. there were no casualties.",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "guerrillas",
+                    "insurgents"
+                ]
+            ],
+            "perp_organization_id": [
+                [
+                    "fmln"
+                ]
+            ],
+            "phys_tgt_id": [
+                [
+                    "train"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "claymore mine",
+                    "mine"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0052": {
+        "doc": "today a 9-year-old student lost his left hand as a result of the serious injuries he sustained after he picked up a bomb that was hidden among some garbage bags near his school in the city of copiapo.    aldo crason, the regional education ministry secretary, has reported that the minor, who was identified as mauricio vera barrios, a 3d-year student in the catholic lyceum of atacama, was injured this morning at 0815.    according to crason, the minor was on his way to school when he stopped at the intersection of o'higgins and diana streets, some five blocks from his school. a bomb had been planted there next to some garbage bags.    the minor picked up the bomb and it exploded, sustaining serious injuries to his left hand. this hand was later amputated at the regional hospital where he was taken urgently.    shrapnel also hit the minor in his face, chest, abdomen, and legs, according to the regional education ministry secretary.",
+        "roles": {
+            "perp_individual_id": [],
+            "perp_organization_id": [],
+            "phys_tgt_id": [],
+            "hum_tgt_name": [
+                [
+                    "mauricio vera barrios"
+                ]
+            ],
+            "incident_instrument_id": [
+                [
+                    "bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0053": {
+        "doc": "military sources today reported that three chilean army officers, one of them the commander of a regiment, have died in a helicopter accident during a patrol operation.    the same sources reported that in the zone of coyhaique, 1,950 km south of santiago, colonel rodolfo vargas, the commander of the \"bulnes\" 26th regiment, headquartered in that southern city, died along with two other officers when their helicopter crashed.    the officers were flying in search of a deserter from that regiment when the accident took place yesterday afternoon.    police sources have also reported that the three people injured in an attack on a bridge that took place yesterday near tongoy beach, some 600 km north of santiago, are members of a military unit of that area.    the same sources reported that those injured, an officer and two noncommissioned officers, were crossing the bridge in a private car when a bomb exploded destroying the bridge.    the three military men suffered relatively serious injuries.",
+        "roles": {
+            "perp_individual_id": [],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "bridge"
+                ],
+                [
+                    "private car",
+                    "car"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "bomb"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0054": {
+        "doc": "a suspected guerrilla was killed in a fierce clash between rebels and government troops early tuesday morning (20 dec) in santa ana, 66 km west of san salvador. according to military sources, about 200 guerrillas from the feliciano ama front took up positions on the outskirts of the city and opened fire on the garrisons of the 2d infantry brigade and the national guard. they did not damage the garrisons or inflict any casualties.  (passage omitted)    while the rebels attacked the garrisons, another group attacked the cel (lempa river hydroelectric executive commission) san luis substation, 3 km north of santa ana. they caused minor damage to the control room with explosives. this plant distributes all of the electricity for the country's western area, so the damage was repaired under the supervision of cel engineers. (passage omitted)",
+        "roles": {
+            "perp_individual_id": [
+                [
+                    "rebels",
+                    "another group"
+                ]
+            ],
+            "perp_organization_id": [],
+            "phys_tgt_id": [],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "explosives"
+                ]
+            ]
+        }
+    },
+    "TST-MUC3-0055": {
+        "doc": "this morning, three bombs destroyed a checkpoint that was being built in santa fe, antioquia department, at a place known as paseo real. according to the authorities, the losses exceed 3 million pesos.",
+        "roles": {
+            "perp_individual_id": [],
+            "perp_organization_id": [],
+            "phys_tgt_id": [
+                [
+                    "checkpoint"
+                ]
+            ],
+            "hum_tgt_name": [],
+            "incident_instrument_id": [
+                [
+                    "three bombs",
+                    "bombs"
+                ]
+            ]
+        }
+    }
+}

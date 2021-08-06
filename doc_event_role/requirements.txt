@@ -1,0 +1,9 @@
+numpy==1.17
+spacy==2.0.12
+transformers[sentencepiece]==4.5.1
+pytorch-pretrained-bert==0.6.2
+pandas
+scikit-learn
+packaging==20.0
+pytorch-lightning==1.2.8
+tqdm==4.41.1

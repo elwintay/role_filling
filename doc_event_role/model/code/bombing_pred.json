@@ -1,0 +1,168 @@
+{
+    "wiki_mass_car_bombings_1_news_8": {
+        "perp_individual_id": [
+            "taliban fighters",
+            "militants"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "car bomb",
+            "car bomb"
+        ]
+    },
+    "scenario_en_kairos_68": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "53_VOA_EN_NW_2015.06.24.2835606": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "wiki_drone_strikes_0_news_1": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "wiki_ied_bombings_10": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [
+            "caterham arms public house",
+            "arms public house"
+        ],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "ira bomb",
+            "bomb",
+            "bomb",
+            "bomb",
+            "bomb",
+            "bomb",
+            "bomb",
+            "bombs"
+        ]
+    },
+    "backpack_ied_13": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bombs",
+            "bomb",
+            "bombing",
+            "explosives"
+        ]
+    },
+    "20_VOA_EN_NW_2016.11.17.3601570": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "explosive device"
+        ]
+    },
+    "scenario_en_kairos_30": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "38_VOA_EN_NW_2013.04.24.1647602": {
+        "perp_individual_id": [
+            "extremists"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bombs"
+        ]
+    },
+    "JC002YBW0": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bombs"
+        ]
+    },
+    "scenario_en_kairos_16": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "23_VOA_EN_NW_2015.11.24.3071320": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "bomb",
+            "bomb",
+            "bomb"
+        ]
+    },
+    "wiki_mass_car_bombings_7_news_2": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": [
+            "car bomb"
+        ]
+    },
+    "wiki_mass_car_bombings_0_news_9": {
+        "perp_individual_id": [
+            "rebels",
+            "rebels"
+        ],
+        "perp_organization_id": [
+            "eln",
+            "eln",
+            "eln"
+        ],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "wiki_ied_bombings_5_news_3": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "wiki_drone_strikes_1_news_1": {
+        "perp_individual_id": [
+            "anonymous writer"
+        ],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    },
+    "scenario_en_kairos_2": {
+        "perp_individual_id": [],
+        "perp_organization_id": [],
+        "phys_tgt_id": [],
+        "hum_tgt_name": [],
+        "incident_instrument_id": []
+    }
+}
